@@ -1,5 +1,5 @@
 class Book
-  
+  GENRES = []
 end
 
 
